@@ -10,7 +10,7 @@ DongXiaokai0819 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://www.dongkk.cn/hello-solo)
+* [世界，你好！](http://www.shangxiaoying.cn/hello-solo)
 
 
 
