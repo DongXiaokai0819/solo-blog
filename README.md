@@ -10,7 +10,8 @@ Dong小凯的个人博客
 
 ### 最新
 
-* [Java并发编程--从入门到放弃](https://www.dongkk.cn/concurrent03)
+* [Fork/Join 框架 & CountDownLatch与CyclicBarrier](https://www.dongkk.cn/concurrent05)
+* [Java多线程基础&线程间的协作与共享。](https://www.dongkk.cn/concurrent03)
 * [进程与线程、并发与并行](https://www.dongkk.cn/concurrent01)
 * [Java并发编程基础概念](https://www.dongkk.cn/concurrent02)
 * [String、String Buffer、String Builder有啥子区别？](https://www.dongkk.cn/javasestring)
