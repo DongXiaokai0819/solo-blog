@@ -10,6 +10,7 @@ Dong小凯的个人博客
 
 ### 最新
 
+* [CAS与Auomic原子类](https://www.dongkk.cn/concurrent06)
 * [Fork/Join 框架 & CountDownLatch与CyclicBarrier](https://www.dongkk.cn/concurrent05)
 * [Java多线程基础&线程间的协作与共享。](https://www.dongkk.cn/concurrent03)
 * [进程与线程、并发与并行](https://www.dongkk.cn/concurrent01)
