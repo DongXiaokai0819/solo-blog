@@ -10,8 +10,7 @@ Dong小凯的个人博客
 
 ### 最新
 
-* [单例模式的多种实现](https://www.dongkk.cn/articles/2019/10/22/1571748176619.html)
-* [单例模式](https://www.dongkk.cn/Singleton)
+* [单例模式的多种实现](https://www.dongkk.cn/singleton)
 * [设计原则总结](https://www.dongkk.cn/design)
 * [Java线程池](https://www.dongkk.cn/concurrent07)
 * [CAS与Auomic原子类](https://www.dongkk.cn/concurrent06)
