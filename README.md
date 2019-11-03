@@ -10,9 +10,10 @@ Dong小凯的个人博客
 
 ### 最新
 
+* [Java 内存区域](https://www.dongkk.cn/jvm01)
+* [设计原则](https://www.dongkk.cn/articles/2019/11/02/1572699895477.html)
 * [进程 Vs 线程、并发 Vs 并行](https://www.dongkk.cn/concurrent10)
 * [单例模式的多种实现](https://www.dongkk.cn/singleton)
-* [设计原则总结](https://www.dongkk.cn/design)
 * [Java线程池](https://www.dongkk.cn/concurrent07)
 * [CAS与Auomic原子类](https://www.dongkk.cn/concurrent06)
 * [Fork/Join 框架 & CountDownLatch与CyclicBarrier](https://www.dongkk.cn/concurrent05)
