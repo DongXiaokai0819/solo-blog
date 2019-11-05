@@ -10,6 +10,7 @@ Dong小凯的个人博客
 
 ### 最新
 
+* [Java 垃圾收集器与内存分配策略](https://www.dongkk.cn/articles/2019/11/05/1572929736453.html)
 * [Java 内存区域](https://www.dongkk.cn/jvm01)
 * [设计原则](https://www.dongkk.cn/articles/2019/11/02/1572699895477.html)
 * [进程 Vs 线程、并发 Vs 并行](https://www.dongkk.cn/concurrent10)
