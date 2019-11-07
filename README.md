@@ -10,6 +10,8 @@ Dong小凯的个人博客
 
 ### 最新
 
+* [Java 位运算](https://www.dongkk.cn/articles/2019/11/07/1573105372292.html)
+* [class 类文件结构与字节码指令](https://www.dongkk.cn/articles/2019/11/06/1573046182494.html)
 * [Java 垃圾收集器与内存分配策略](https://www.dongkk.cn/articles/2019/11/05/1572929736453.html)
 * [Java 内存区域](https://www.dongkk.cn/jvm01)
 * [设计原则](https://www.dongkk.cn/articles/2019/11/02/1572699895477.html)
