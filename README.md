@@ -10,6 +10,7 @@ Dong小凯的个人博客
 
 ### 最新
 
+* [Java 类加载过程 与 类加载器（双亲委派模型）](https://www.dongkk.cn/articles/2019/11/08/1573202517793.html)
 * [Java 位运算](https://www.dongkk.cn/articles/2019/11/07/1573105372292.html)
 * [class 类文件结构与字节码指令](https://www.dongkk.cn/articles/2019/11/06/1573046182494.html)
 * [Java 垃圾收集器与内存分配策略](https://www.dongkk.cn/articles/2019/11/05/1572929736453.html)
